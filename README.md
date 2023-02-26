@@ -6,3 +6,6 @@
 - 🤔 I’m looking for help with monetizing apps and finding product market fit for side projects & learning more about cloud developent (AWS)
 - 💬 Ask me about startups & fintech.
 - 📫 How to reach me: @shariffintech on twitter
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shariffintech)](https://github.com/anuraghazra/github-readme-stats)
+
