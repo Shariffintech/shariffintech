@@ -7,5 +7,6 @@
 - 💬 Ask me about startups & fintech.
 - 📫 How to reach me: @shariffintech on twitter
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shariffintech)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shariffintech&layout=compact)](https://github.com/shariffintech/github-readme-stats)
+![Sharif's GitHub stats](https://github-readme-stats.vercel.app/api?username=shariffintech&show_icons=true&theme=gradient)
 
